@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abu Abdullah Md Iqram</h1>
+<h3 align="center">Frontend Web Developer | React Enthusiast</h3>
 
-<!--
-**aamiqram/aamiqram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a passionate Frontend Web Developer focused on building responsive, user-friendly web applications.  
+I enjoy turning complex problems into simple, clean UI solutions.  
+Currently improving my skills in modern JavaScript frameworks and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js**
+- 🧳 Working on a **Tourism Website**
+- ⚛️ Building projects with **React & JavaScript**
+
+---
+
+## 🛠 Skills
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/aamiqram/
+- 📧 Email: aamiqram.dev@gmail.com
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aamiqram&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aamiqram&theme=tokyonight" />
+</p>
