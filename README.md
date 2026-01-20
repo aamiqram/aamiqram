@@ -17,7 +17,7 @@ I am Abu Abdullah Mohammed Iqram, a passionate Frontend Web Developer specializi
 ## 🚀 Current Activities
 
 - 🌱 **Exploring:** Advanced Next.js features including Server Actions and App Router
-- 🧳 **Building:** A comprehensive Tourism Website with booking functionality
+- 🧳 **Building:** A comprehensive School Website with Role based CRUD functionality & student friendly features 
 - ⚛️ **Learning:** TypeScript integration with React for type-safe applications
 - 🔥 **Practicing:** Modern state management with Redux Toolkit and Context API
 - 📚 **Reading:** Best practices in frontend architecture and performance optimization
