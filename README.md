@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abu Abdullah Md Iqram</h1>
 <h3 align="center">Frontend Web Developer (MERN Stack) | React Enthusiast</h3>
 
-![Banner](https://i.ibb.co.com/vCS4nDL8/Software-Engineer-Linked-In-Banner.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/vCS4nDL8/Software-Engineer-Linked-In-Banner.png" alt="Profile Summary" />
+</p>
 
 ## 📫 Contact Information
 - **Email:** aamiqram.dev@gmail.com
